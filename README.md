@@ -4,9 +4,8 @@ I'm a hobbyist interested in graphics programming, game design/development, and 
 
 ## Stack
 
-- **Languages**: Zig, Nix, C, Rust, C++, Python, Lua, GLSL, HTML, and CSS.
+- **Languages**: Zig, Nix, C, Rust, C++, Python, Lua, HTML, and CSS.
 - **Tools**: Neovim and Meson.
-- **Libraries & frameworks**: OpenGL.
 - **Systems**: NixOS and Gentoo
 
 ## Contacts
